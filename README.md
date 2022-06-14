@@ -59,3 +59,5 @@
 ### Default port: 8080
 
 Or get environment variable _API_PORT_
+
+__This is a demo project.__
