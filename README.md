@@ -58,4 +58,4 @@
 
 ### Default port: 8080
 
-Or get environment variable * API_PORT *
+Or get environment variable _API_PORT_
